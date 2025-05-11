@@ -1,0 +1,23 @@
+{
+  "name": "shopify",
+  "version": "1.0.0",
+  "description": "Demo link: https://htmlpreview.github.io/?https://github.com/AmirHosseinRP/Shopify/blob/master/mainSheet.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirHosseinRP/Shopify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirHosseinRP/Shopify/issues"
+  },
+  "homepage": "https://github.com/AmirHosseinRP/Shopify#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.6",
+    "tailwindcss": "^4.1.6"
+  }
+}
